@@ -18,14 +18,6 @@ It consists of a dynamic ReactJS frontend using Material UI, React Routing and H
 \
 \
 ![dashboard.png](dashboard.png)
-\
-\
-\
-This project was selected as an outstanding entry to AlgoExpert's Summer-Fall 2020 project contest: [Algoexpert Contest](https://www.algoexpert.io/swe-project-contests/2020-summer)
-
-Demo video: [YouTube](https://www.youtube.com/watch?v=VmBlRCFoDK8)
-
-Check it out: [Website](https://oktarian-trading-simulator.herokuapp.com/) (_Might take a few minutes for the website to load if no one has accessed it recently_)
 
 
 ## Installation
