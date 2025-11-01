@@ -3,8 +3,7 @@
 ## Contents
 * [About](#about)
 * [Installation](#installation)
-* [Development](#development)
-* [Deployment](#deployment)
+* [Video](#video)
 
 
 ## About
@@ -43,8 +42,6 @@ cd client
 npm run start
 ```
 
-## Development
-coming soon...
 
-## Deployment
-coming soon...
+## Video
+[Watch demo video](https://www.veed.io/view/06942e78-eeb0-44cc-9d28-f76074bb8725?source=editor&panel=share)
